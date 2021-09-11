@@ -1,0 +1,10 @@
+name: "case rate"
+title: "case rate"
+description: |
+  case rate
+output_dir: "docs"
+navbar:
+  right:
+    - text: "case rate"
+      href: cases_msia.html
+output: html_document
